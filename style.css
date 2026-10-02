@@ -1,0 +1,19 @@
+body {
+	background-color: red;
+	margin: 15px;:wq!
+}
+
+h1 {
+	color: orange;
+	font-size:30px;
+}
+
+p{
+	font-size: 20px;
+	color: blue;
+}
+
+form {
+	margin: 20px;
+	padding: 30px;
+}
